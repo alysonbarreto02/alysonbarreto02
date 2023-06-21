@@ -25,7 +25,7 @@
 
 
 <h4>
- <strong>Desenvolvedor Front-end</strong>
+ <strong>Desenvolvedor fullstack</strong>
 </h3>
 
 <div style="display: inline_block"><br>
